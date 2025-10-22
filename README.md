@@ -4,6 +4,8 @@
     <li>A Python implementation of Prediction by Partial Matching (PPM) compression with arithmetic coding.</li>
     <li>This tool can encode and decode binary or text files using adaptive context modeling.</li>
     <li>Works on any binary file (text, images, etc.)</li>
+    <li>Disclaimer - This is my personal project to better understand compression methods</li>
+    <li>Project is not optimized for real world usage</li>
   </ul>
 </section>
 
